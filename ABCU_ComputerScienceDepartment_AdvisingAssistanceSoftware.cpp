@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : ABCU_ComputerScienceDepartment_AdvisingAssistanceSoftware.cpp
+// Name        : ABCU_ComputerScienceDepartment_AdvisingAssistanceSoftware.cpp (FYI: Name too long to zip and unzip.)
 // Author      : John Clark
 // Version     : 1.0
-// Copyright   : Copyright © 2023 SNHU COCE
+// Copyright   : Copyright Â© 2023 SNHU COCE
 // Description : For advisors at ABCU to help Computer Science students determine which courses must be taken to earn a 
 //               Computer Science degree, excluding general education requirements. 
 //============================================================================
