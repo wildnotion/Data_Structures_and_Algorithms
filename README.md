@@ -1,4 +1,6 @@
-# DataStructuresAndAlgorithms
+# Data Structures and Algorithms
+SNHU CS-300 Data Structures and Algorithms
+
 Files include a runtime analysis for three data structures (i.e., vector, hash table, and binary tree search) and an implementation of a binary search tree algorithm to store, sort, and display a list of courses as well as to search for and display a specific course from that list.
 
 A school named ABC University requested a runtime analysis to determine an algorithm with the best worst-case time complexity to use in an advising tool for students in their computer science department. They provided a list of three data structures (i.e., vector, hash table, and binary tree search) that were to be examined for use with a CSV (comma-separated value) file for loading, sorting, and displaying information about different courses. Error checks were also examined to ensure that each course's prerequisites were present in a list of all available computer science and math courses.
